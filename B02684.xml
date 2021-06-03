@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Grace, his Majesties High Commissioner, and the right honourable the Estates of Parliament. The petition of Captain Andrew Dick, sometimes Stewart of Orkney.</title>
+            <author>Dick, Andrew, Sir.</author>
+         </titleStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02684</idno><idno type="EEBO-CITATION">53299046</idno>
+  <idno type="VID">179816</idno>
+  <idno type="EEBO-PROQUEST">2248535539</idno>
+  
+            <idno type="STC">Wing D1380C</idno>
+            <idno type="STC">ESTC R175950</idno>
+            <idno type="OCLC">53299046</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B02684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179816)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2804:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Grace, his Majesties High Commissioner, and the right honourable the Estates of Parliament. The petition of Captain Andrew Dick, sometimes Stewart of Orkney.</title>
+                  <author>Dick, Andrew, Sir.</author>
+               </titleStmt>
+               <extent>1 sheet (1 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Dick, William, --  Sir, 1579 or 80-1655.</term>
+               <term type="topical_term">Debtor and creditor --  Scotland --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:179816:1"/>
+            <head>To his Grace, His Majesties high Commissioner, and the Right Honourable the Estates of Parliament.</head>
+            <head type="sub">The PETITION of <hi>Captain</hi> Andrew Dick, <hi>sometime Stewart of</hi> Orkney,</head>
+            <opener>Humbly sheweth,</opener>
+            <p>THat the deceas'd Sir <hi>William Dick</hi> my Grand-father, in the years 1638, 39, 40, and 1641. did advance and lend to several persons of great eminency, great Sums of Money upon privat Security, for repayment thereof to the said Sir <hi>William</hi> his Heirs and Successors, whereunto I have the undoubt<g ref="char:EOLhyphen"/>ed Right, which Sums of Money so borrowed by the saids persons, was believed to have been imployed by them, for carrying on and managing the publick Af<g ref="char:EOLhyphen"/>fairs of the time; Upon which Consideration, the Parliament from time to time in the Reign of <hi>K. Charles</hi> the <hi>2d.</hi> did suspend all manner of Execution a<g ref="char:EOLhyphen"/>gainst the persons bound for the saids Debts, or their Representatives, and at length, by the 26 Act of the <hi>3d Parl. Ch.</hi> the <hi>2d.</hi> held in the year 1681, the Parliament then past an Act absolutly discharging the saids Debts, as being ad<g ref="char:EOLhyphen"/>vanced for promoting an ill and rebellious Cause, upon the Debitors only ta<g ref="char:EOLhyphen"/>king of the Test; by which means (albeit <hi>I</hi> had transacted with, and became lyable to several Creditors of my said Grand-father) I was altogether disap<g ref="char:EOLhyphen"/>pointed of any satisfaction and re-payment, I had reason to expect by the Debts due to my Grand-father, without which recourse upon the Debitors thereof, I shall neither be able to fulfil the foresaids Transaction, nor subsist my Family, being forced long since to dispone my hail Means and Estate towards the pay<g ref="char:EOLhyphen"/>ment of my Creditors: Except the Parliament shal lay down some publick Course for the satisfaction of the saids Debts, and relieving of the Debitors therein bound, as was formerly granted by an Imposition of four Shilling <hi>per</hi> pound upon Tobacco for the same effect: And seing in all Law and com<g ref="char:EOLhyphen"/>mon Justice, it ought not to be turned to the prejudice of the Lender, how, or which way his Debitors from whom he has received privat security, imploy or dispose of the Money lent by him.</p>
+            <p>May it therefore please your Grace, and Estates of Parliament, to con<g ref="char:EOLhyphen"/>sider the Premisses, and either to abrogat the foresaids Acts of Parliament, whereby Diligence against the said Sir <hi>William Dicks</hi> Debitors, and their Estates is either suspended or discharged, or to lay down some publick Course for payment of their saids Debts, and in the mean time, to grant an Aliment to me, out of some publick Fond, with a Protection for my per<g ref="char:EOLhyphen"/>son against my Creditors, as was formerly done to my eldest Brother, when alive, ay and while I shall by the Justice of the Parliament obtain access by legal Diligence against the Persons and Estates of the said Sir <hi>William Dick,</hi> his Debitors, or satisfaction of their Debts, by what means the Wisdom of the Parliament shall think most fit.</p>
+            <pb facs="tcp:179816:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
